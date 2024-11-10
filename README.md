@@ -1,4 +1,4 @@
-CODE for term paper.
+CODE for Term paper: Extend ViLT for the downstream task.
 
 pip in requiremtns.txt in a python 3.12 CONDA ENV
 
